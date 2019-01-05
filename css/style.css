@@ -1,0 +1,508 @@
+
+body, html {
+  height: 100%;
+}
+
+.fastest {
+    background: url('../img/milkyway.jpg') no-repeat;
+	background-position: center;
+	max-width: 100%;
+    height: auto;
+	padding: 140px 100px;
+	color: #fff;
+  }
+
+
+
+
+ .fastest h1 {
+ 	font-size: 40px;
+ 	font-weight: 700;
+ 	text-transform: uppercase;
+
+ } 
+
+.showcase hr {
+   width: 100px;
+   margin: auto;
+   border-width:3px;
+   border-color: #f44336; 
+}
+
+
+.security {
+	font-family: Megrim;
+	font-size: 22px;
+	color: #8CD201
+
+}
+
+.browsing {
+	font-family: Megrim;
+	font-size: 24px;
+	color: #8CD201
+
+
+}
+
+.util {
+	font-family: Megrim;
+	font-size: 24px;
+	color: #8CD201
+
+
+}
+
+
+.message {
+	font-family: Megrim;
+	font-size: 24px;
+	color: #8CD201
+
+
+}
+
+
+
+
+
+
+
+
+.chrome:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.chrome:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.chrome:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.chrome:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+.firefox:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.firefox:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.firefox:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.firefox:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.opera:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.opera:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.opera:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.opera:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+.bitdefender:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.bitdefender:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.bitdefender:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.bitdefender:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+.avast:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.avast:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.avast:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.avast:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+.avg:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.avg:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.avg:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.avg:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.malwarebytes:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.malwarebytes:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.malwarebytes:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.malwarebytes:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+.teamviewer:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.teamviewer:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.teamviewer:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.teamviewer:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+.windirstat:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.windirstat:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.windirstat:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.windirstat:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+.imgburn:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.imgburn:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.imgburn:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.imgburn:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+.classicshell:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.classicshell:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.classicshell:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.classicshell:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+.discord:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.discord:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.discord:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.discord:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+.skype:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.skype:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.skype:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.skype:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+.viber:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.viber:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.viber:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.viber:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+.sit {
+	color: aquamarine;
+    font-size: 17px;
+
+
+}
