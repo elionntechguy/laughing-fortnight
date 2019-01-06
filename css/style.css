@@ -414,6 +414,34 @@ body, html {
 
 
 
+.notepad:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.notepad:visited {
+  color: #FEAA01;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.notepad:hover {
+  color: #01BBFE;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.notepad:active {
+  color: #01FE4D;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
 
 .discord:link {
   color: white; 
