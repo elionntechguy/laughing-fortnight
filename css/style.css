@@ -4,14 +4,9 @@ body, html {
 }
 
 .fastest {
-    background: url('../img/mountain.jpg') no-repeat center center fixed;
+    background: url('../img/milkyway.jpg') no-repeat;
 	background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 	max-width: 100%;
-    margin: auto;
     height: auto;
 	padding: 140px 100px;
 	color: #fff;
@@ -33,17 +28,6 @@ body, html {
    border-width:3px;
    border-color: #f44336; 
 }
-
-
-
-.btn {
-  text-align: left;
-  align-content: left;
-
-
-
-}
-
 
 
 .security {
@@ -81,43 +65,29 @@ body, html {
 
 
 
-.privacypolicy {
-  font-family: Alegreya Sans SC;
-  font-size: 36px;
-  color: black;
-
-}
 
 
 
-#privacypolicy {
-  font-size: 28px
 
-
-
-}
-
-
-
-#privacypolicy:link {
-  color: #f44242; 
+.chrome:link {
+  color: white; 
   background-color: transparent; 
   text-decoration: none;
 }
 
-#privacypolicy:visited {
+.chrome:visited {
   color: #FEAA01;
   background-color: transparent;
   text-decoration: none;
 }
 
-#privacypolicy:hover {
+.chrome:hover {
   color: #01BBFE;
   background-color: transparent;
   text-decoration: underline;
 }
 
-#privacypolicy:active {
+.chrome:active {
   color: #01FE4D;
   background-color: transparent;
   text-decoration: underline;
@@ -126,46 +96,7 @@ body, html {
 
 
 
-#termsofservice {
-  font-size: 28px
 
-
-
-}
-
-
-
-#termsofservice:link {
-  color: #f44242; 
-  background-color: transparent; 
-  text-decoration: none;
-}
-
-#termsofservice:visited {
-  color: #FEAA01;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-#termsofservice:hover {
-  color: #01BBFE;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-#termsofservice:active {
-  color: #01FE4D;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-
-
-#backslash {
- font-size: 28px
-
-
-}
 
 
 
@@ -479,34 +410,6 @@ body, html {
   background-color: transparent;
   text-decoration: underline;
 }
-
-
-
-
-.notepad:link {
-  color: white; 
-  background-color: transparent; 
-  text-decoration: none;
-}
-
-.notepad:visited {
-  color: #FEAA01;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-.notepad:hover {
-  color: #01BBFE;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-.notepad:active {
-  color: #01FE4D;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
 
 
 
